@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Alcatraz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Alcatraz\\.nuget\\packages"
+    ]
+  }
+}

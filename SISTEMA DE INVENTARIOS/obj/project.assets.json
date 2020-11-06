@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.VisualBasic/10.0.0": {
+        "type": "package",
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.VisualBasic/10.0.0": {
+      "sha512": "5BEm2/HAVd97whRlCChU7rmSh/9cwGlZ/NTNe3Jl07zuPWfKQq5TUvVNUmdvmEe8QRecJLZ4/e7WF1i1O8V42g==",
+      "type": "package",
+      "path": "microsoft.visualbasic/10.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/dotnet/Microsoft.VisualBasic.dll",
+        "lib/net45/_._",
+        "lib/netcore50/Microsoft.VisualBasic.dll",
+        "lib/win8/_._",
+        "lib/wpa81/_._",
+        "microsoft.visualbasic.10.0.0.nupkg.sha512",
+        "microsoft.visualbasic.nuspec",
+        "ref/dotnet/Microsoft.VisualBasic.dll",
+        "ref/dotnet/Microsoft.VisualBasic.xml",
+        "ref/dotnet/de/Microsoft.VisualBasic.xml",
+        "ref/dotnet/es/Microsoft.VisualBasic.xml",
+        "ref/dotnet/fr/Microsoft.VisualBasic.xml",
+        "ref/dotnet/it/Microsoft.VisualBasic.xml",
+        "ref/dotnet/ja/Microsoft.VisualBasic.xml",
+        "ref/dotnet/ko/Microsoft.VisualBasic.xml",
+        "ref/dotnet/ru/Microsoft.VisualBasic.xml",
+        "ref/dotnet/zh-hans/Microsoft.VisualBasic.xml",
+        "ref/dotnet/zh-hant/Microsoft.VisualBasic.xml",
+        "ref/net45/_._",
+        "ref/netcore50/Microsoft.VisualBasic.dll",
+        "ref/netcore50/Microsoft.VisualBasic.xml",
+        "ref/win8/_._",
+        "ref/wpa81/_._"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.VisualBasic >= 10.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alcatraz\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Alcatraz\\Desktop\\SISTEMA DE INVENTARIOS\\SISTEMA DE INVENTARIOS\\SISTEMA DE INVENTARIOS.csproj",
+      "projectName": "SISTEMA DE INVENTARIOS",
+      "projectPath": "C:\\Users\\Alcatraz\\Desktop\\SISTEMA DE INVENTARIOS\\SISTEMA DE INVENTARIOS\\SISTEMA DE INVENTARIOS.csproj",
+      "packagesPath": "C:\\Users\\Alcatraz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alcatraz\\Desktop\\SISTEMA DE INVENTARIOS\\SISTEMA DE INVENTARIOS\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Alcatraz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Microsoft.VisualBasic": {
+            "target": "Package",
+            "version": "[10.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.VisualBasic 10.0.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \".NETCoreApp,Version=v3.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Microsoft.VisualBasic",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

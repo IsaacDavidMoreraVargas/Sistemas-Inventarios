@@ -1,0 +1,21 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.VisualBasic/10.0.0": {}
+    }
+  },
+  "libraries": {
+    "Microsoft.VisualBasic/10.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5BEm2/HAVd97whRlCChU7rmSh/9cwGlZ/NTNe3Jl07zuPWfKQq5TUvVNUmdvmEe8QRecJLZ4/e7WF1i1O8V42g==",
+      "path": "microsoft.visualbasic/10.0.0",
+      "hashPath": "microsoft.visualbasic.10.0.0.nupkg.sha512"
+    }
+  }
+}

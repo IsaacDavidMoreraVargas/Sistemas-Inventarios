@@ -1,0 +1,39 @@
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.exe
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.deps.json
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.runtimeconfig.json
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.runtimeconfig.dev.json
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.dll
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.pdb
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.csprojAssemblyReference.cache
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.AssemblyInfoInputs.cache
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.AssemblyInfo.cs
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.csproj.CoreCompileInputs.cache
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.dll
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.pdb
+C:\Users\Alcatraz\source\repos\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.genruntimeconfig.cache
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.exe
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.deps.json
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.runtimeconfig.json
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.runtimeconfig.dev.json
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.dll
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.pdb
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA_DE_INVENTARIOS.Form1.resources
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.csproj.GenerateResource.cache
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.AssemblyInfoInputs.cache
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.AssemblyInfo.cs
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.dll
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.pdb
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.genruntimeconfig.cache
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA_DE_INVENTARIOS.GUI_REGISTRAR_INSTRUMENTOS.resources
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.dll
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.resources.dll
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.Imaging.resources.dll
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.csproj.CopyComplete
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA_DE_INVENTARIOS.InputBox.resources
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA DE INVENTARIOS.csproj.CoreCompileInputs.cache
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA_DE_INVENTARIOS.GUI_REGISTRAR_MATERIALES.resources
+C:\Users\Alcatraz\Desktop\SISTEMA DE INVENTARIOS\SISTEMA DE INVENTARIOS\obj\Debug\netcoreapp3.1\SISTEMA_DE_INVENTARIOS.GUI_REGISTRAR_INVENTARIO.resources

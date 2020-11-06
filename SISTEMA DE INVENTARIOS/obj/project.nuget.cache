@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFxZzWXwBcPefFS4NDZQYXSigWkofMOuc2EdleW6rPlJTLpQHBGtmezrgBkz4XOjBxX23KIP456bKTahNX1VHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alcatraz\\Desktop\\SISTEMA DE INVENTARIOS\\SISTEMA DE INVENTARIOS\\SISTEMA DE INVENTARIOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alcatraz\\.nuget\\packages\\microsoft.visualbasic\\10.0.0\\microsoft.visualbasic.10.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.VisualBasic 10.0.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \".NETCoreApp,Version=v3.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Microsoft.VisualBasic",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
